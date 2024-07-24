@@ -7,7 +7,7 @@
     <meta charset="utf-8"> 
   </head>
   <body>
-    <h1>Aqui vai um título</h1>
+    <h1>Imagem de um gato vencedor</h1>
   </body>
 </html>
 
@@ -23,4 +23,5 @@
   <img src="images/gato.jpg" />
   </body>
 </html>
+
 
