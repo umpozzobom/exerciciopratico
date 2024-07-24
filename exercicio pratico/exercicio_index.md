@@ -20,7 +20,7 @@
 </head>
 <body>
   <h1>Perfil #catsoninstagram</h1>
-  <img src="images/gato.jpg" />
+  <img src="gato.jpg" />
   </body>
 </html>
 
